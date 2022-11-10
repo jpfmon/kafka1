@@ -12,13 +12,13 @@ import java.util.Scanner;
  * Hello world!
  *
  */
-public class App 
+public class ProducerApp
 {
     public static void main( String[] args )
     {
 
         //creating logger
-        final Logger logger = LoggerFactory.getLogger(App.class);
+        final Logger logger = LoggerFactory.getLogger(ProducerApp.class);
         //create Producer properties
 
 //        Properties properties = new Properties();
